@@ -10,7 +10,7 @@
 
   
 <p align="center">
-  <img src="https://github.com/MediSpy/MediSpy/blob/6b02a0ae457cb60860ab83e6441e8cde198e387e/Untitled49_20260727024726.png" alt="MediSpy" width="620">
+  <img src="https://github.com/MediSpy/MediSpy/blob/6b02a0ae457cb60860ab83e6441e8cde198e387e/Untitled49_20260727024726.png" alt="MediSpy" width="560">
 </p>
 
 
