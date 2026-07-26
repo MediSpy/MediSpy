@@ -11,10 +11,7 @@
 
 
 <p align="center">
-  <a
-
-  <p align="center">
-  <img src="https://raw.githubusercontent.com/MediSpy/MediSpy/eb58bcf10878df39e512059acc5517c285da8a04/Untitled50_20260726211735.png" alt="MediSpy" width="850">
+  <img src="https://github.com/MediSpy/MediSpy/blob/85e83ad6e0f288d48b507beb81472581494eec3b/Untitled50_20260726230355.png" alt="MediSpy" width="850">
 </p>
 
 
