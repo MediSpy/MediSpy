@@ -1,16 +1,28 @@
-## Hi there 👋
+<p align="center">
+  <a
 
-<!--
-**MediSpy/MediSpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ![](https://github.com/MediSpy/MediSpy/blob/eb58bcf10878df39e512059acc5517c285da8a04/Untitled51_20260726212624.png)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a
+
+  ㅤㅤㅤㅤㅤㅤㅤ
+
+
+
+<p align="center">
+  <a
+
+  ![](https://github.com/MediSpy/MediSpy/blob/eb58bcf10878df39e512059acc5517c285da8a04/Untitled50_20260726211735.png)
+
+
+<p align="center">
+  <a
+
+  ㅤㅤㅤㅤㅤㅤㅤ
+
+<p align="center">
+  <a
+
+  ![](https://github.com/MediSpy/MediSpy/blob/eb58bcf10878df39e512059acc5517c285da8a04/Untitled51_20260726212630.png)
